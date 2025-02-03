@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Product 1",
+    "description": "Product One description goes here",
+    "price": 55.99
+  },
+  {
+    "id": "2",
+    "name": "Product 3",
+    "description": "Product Two description goes here",
+    "price": 66.99
+  },
+  {
+    "id": "3",
+    "name": "Product 3",
+    "description": "Product Three description goes here",
+    "price": 77.99
+  },
+  {
+    "id": "4",
+    "name": "Product 4",
+    "description": "Product Four description goes here",
+    "price": 88.99
+  },
+  {
+    "id": "5",
+    "name": "Product 5",
+    "description": "Product Five description goes here",
+    "price": 99.99
+  }
+]
